@@ -1,5 +1,9 @@
 # stunning-chainsaw
 clone repo
+#### commands
+```sh
 npm install
 npm run start
-open browser and point to localhost:5000
+```
+
+then open browser and point to localhost:5000
