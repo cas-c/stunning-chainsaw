@@ -1,0 +1,24 @@
+{
+  "name": "stunning-chainsaw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve static"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/witch-cafe/stunning-chainsaw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/witch-cafe/stunning-chainsaw/issues"
+  },
+  "homepage": "https://github.com/witch-cafe/stunning-chainsaw#readme",
+  "dependencies": {
+    "serve": "^6.5.5"
+  }
+}
